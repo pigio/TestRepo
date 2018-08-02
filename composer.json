@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "Pigio",
-            "email": "pigio@foo.com",
+            "email": "pigio@foo.com"
         }
     ],
     "autoload": {
