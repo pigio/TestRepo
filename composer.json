@@ -1,16 +1,12 @@
 {
 	"name": "pigio/testii",
     "description": "TestPackage",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/pigio/TestRepo"
-        }
-    ],
+    "type": "library",
+    "version": "1.1.0",
     "require": {
         
     },
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Pigio",
