@@ -2,7 +2,7 @@
 	"name": "pigio/testii",
     "description": "TestPackage",
     "type": "library",
-    "version": "1.1.4",
+    "version": "1.1.8",
     "require": {
         
     },
